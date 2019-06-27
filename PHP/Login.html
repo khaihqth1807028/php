@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="form.css">
+    <link rel="stylesheet" href="css.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel=”stylesheet” href=”https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css” />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <script src="bootstrap-3.3.7-dist"></script>
+</head>
+<body>
+<form action="process.php" method="POST">
+    <div class="form" >
+        <b>Hãy đăng nhập ngay thôi</b>
+
+        <form id="sign-up" class="form-horizontal form-signin " method="POST" action="https://www.123formbuilder.com/index.php?p=new_user_validate&amp;plan=0&amp;u_openidtype=0&amp;usedlang=">
+
+
+            <div class="form-group form-group-margin">
+                <label  class="control-label no-mobile-display">Email</label>
+                <input id="email" type="email" name="email" autofocus="" value="" class="form-control input-width-300  ajax-convert-lable field-required input-error" data-placeholder="E-mail" id="u_econtact" placeholder="">
+            </div>
+
+            <div class="form-group form-group-margin">
+                <label  class="control-label no-mobile-display">Password</label>
+                <input type="password" name="password" value="" class="form-control input-width-300 ajax-convert-lable field-required " data-placeholder="Password" id="u_pass" placeholder="">
+            </div>
+            <div class="form-group margin-bottom-100 mobile-bottom-50">
+                <button id="submit-form-button" class="btn btn-sm btn-success center mobile-bottom-10" type="submit">Login</button>
+            </div>
+<!--            <input type="hidden" name="PHPSESSID" value="08l3ntkfotfa54faoe9du5ns55" id="PHPSESSID">-->
+<!--            <input type="hidden" name="theToken" value="3e28716eb96ac5515f61cfe5f">-->
+<!--            <input type="hidden" name="signup_src" value="orig">-->
+        </form>
+        <p class="new-login">cùng tham quan bài tây cùng chúng tôi</p>
+    </div>
+</form>
+<link rel="stylesheet" href="validate.js">
+<script src="validate.js"></script>
+<script src="jquery.validate.min.js"></script>
+</body>
+</html>

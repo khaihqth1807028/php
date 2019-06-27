@@ -1,0 +1,28 @@
+
+input{
+    width: 100px;
+}
+.form{
+    padding-left: 350px ;
+    padding-top: 30px;
+    padding-right: 350px;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+
+}
+b{text-align: center;
+    font-size: 30px;
+    /*margin-left: 50%;*/
+}
+p{
+    text-align: center;
+    font-family: "Bauhaus 93";
+    font-size: 30px;
+}
+#submit-form-button{
+    margin-left: 45%;
+}

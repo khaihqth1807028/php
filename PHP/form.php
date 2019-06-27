@@ -1,0 +1,138 @@
+<!---->
+<!--<!DOCTYPE html>-->
+<!--<html lang="en">-->
+<!--<head>-->
+<!--    <meta charset="UTF-8">-->
+<!--    <title>Title</title>-->
+<!--    <link rel="stylesheet" href="form.css">-->
+<!--    <link rel="stylesheet" href="css.css">-->
+<!--    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">-->
+<!--    <link rel=”stylesheet” href=”https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css” />-->
+<!--    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">-->
+<!--    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>-->
+<!--    <link rel="profile" href="http://gmpg.org/xfn/11">-->
+<!--    <script src="bootstrap-3.3.7-dist"></script>-->
+<!--</head>-->
+<!--<body>-->
+<!--<header class="header">-->
+<!--    <nav class="navbar navbar-light bg-light">-->
+<!--        <a class="navbar-brand"><img src="//static1.squarespace.com/static/5867e96dc534a51440713a37/t/5a714ec4c830258d36824009/1553799230938/?format=1500w" alt="Shin Lim Magic | Welcome To The Art of Illusion" class="Header-branding-logo">-->
+<!--            <a class="khai">Khải Magic</a>-->
+<!--            <form class="form-inline">-->
+<!--                <input class="form-control1 mr-5 " type="search">-->
+<!--                <!--            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">-->-->
+<!--                <!--                <span class="navbar-toggler-icon"></span>-->-->
+<!--                <!--            </button>-->-->
+<!---->
+<!--                <div class="img-hotline"><i class="fa fa-phone" aria-hidden="true"></i></div><a class="sđt">liên lạc qua sđt :<br>0987654321</a>-->
+<!--            </form>-->
+<!--        </a>-->
+<!--    </nav>-->
+<!---->
+<!--    <ul id="nav">-->
+<!--        <a class="navbar-brand"><img src="//static1.squarespace.com/static/5867e96dc534a51440713a37/t/5a714ec4c830258d36824009/1553799230938/?format=1500w" alt="Shin Lim Magic | Welcome To The Art of Illusion" class="Header-branding-logo">-->
+<!---->
+<!--            <a class="navbar-brand"><img class="home1" src="//static1.squarespace.com/static/5867e96dc534a51440713a37/t/5a714ec4c830258d36824009/1553799230938/?format=1500w" alt="Shin Lim Magic | Welcome To The Art of Illusion" class="Header-branding-logo">-->
+<!--            </a>-->
+<!--            <!--            <li><a class="hsubs" href="#"> <a class="navbar-brand"><img src="//static1.squarespace.com/static/5867e96dc534a51440713a37/t/5a714ec4c830258d36824009/1553799230938/?format=1500w" alt="Shin Lim Magic | Welcome To The Art of Illusion" class="Header-branding-logo">-->-->
+<!---->
+<!--            <!--            </a>-->-->
+<!--        </a><ul class="subs"><a class="navbar-brand"><img src="//static1.squarespace.com/static/5867e96dc534a51440713a37/t/5a714ec4c830258d36824009/1553799230938/?format=1500w" alt="Shin Lim Magic | Welcome To The Art of Illusion" class="Header-branding-logo">-->
+<!---->
+<!--            </a>-->
+<!--            <!--        <li><a href="#">Submenu 1</a></li>-->-->
+<!--            <!--        <li><a href="#">Submenu 2</a></li>-->-->
+<!--            <!--        <li><a href="#">Submenu 3</a></li>-->-->
+<!--            <!--        <li><a href="#">Submenu 4</a></li>-->-->
+<!--            <!--        <li><a href="#">Submenu 5</a></li>-->-->
+<!--        </ul>-->
+<!--        <li><a href="#"><i class="fas fa-house-flood"></i></a></li>-->
+<!--        <li><a class="hsubs" href="#">Home</a>-->
+<!---->
+<!--        </li>-->
+<!---->
+<!--        <li><a class="hsubs" href="#">Product</a>-->
+<!--            <ul class="subs">-->
+<!--                <li><a href="#">bicycle red</a></li>-->
+<!--                <li><a href="#">bicycle blu</a></li>-->
+<!--                <li><a href="#">white tiger</a></li>-->
+<!--                <li><a href="#">reganna</a></li>-->
+<!--                <li><a href="#">black tiger</a></li>-->
+<!--            </ul>-->
+<!--        </li>-->
+<!--        <li><a class="hsubs" href="#">CSS</a>-->
+<!--            <ul class="subs">-->
+<!--                <li><a href="#">thanh 1</a></li>-->
+<!--                <li><a href="#">thanh 2</a></li>-->
+<!--                <li><a href="#">thanh3 3</a></li>-->
+<!--                <li><a href="#">thanh 4</a></li>-->
+<!--                <li><a href="#">thanh 5</a></li>-->
+<!--            </ul>-->
+<!--        </li>-->
+<!--        <li><a class="hsubs" href="#">DAY</a>-->
+<!--            <ul class="subs">-->
+<!--                <li><a href="#">thanh 1</a></li>-->
+<!--                <li><a href="#">thanh 2</a></li>-->
+<!--                <li><a href="#">thanh3 3</a></li>-->
+<!--                <li><a href="#">thanh 4</a></li>-->
+<!--                <li><a href="#">thanh 5</a></li>-->
+<!--            </ul>-->
+<!--        </li>-->
+<!--        <li><a class="hsubs" href="#">Login</a>-->
+<!--            <ul class="subs">-->
+<!--                <li><a href="formRegister.html">đăng kí </a></li>-->
+<!--                <li><a href="#">Đăng nhập</a></li>-->
+<!--            </ul>-->
+<!--        </li>-->
+<!---->
+<!--        <div id="lavalamp"></div>-->
+<!---->
+<!--    </ul>-->
+<!---->
+<!--    </div>-->
+<!--</header>-->
+<!--<form action="process.php" method="POST">-->
+<!--    <div class="form" >-->
+<!--        <p>Get started for free</p>-->
+<!---->
+<!--        <form id="sign-up" class="form-horizontal form-signin " method="POST" action="https://www.123formbuilder.com/index.php?p=new_user_validate&amp;plan=0&amp;u_openidtype=0&amp;usedlang=">-->
+<!---->
+<!---->
+<!--            <div class="form-group form-group-margin">-->
+<!--                <label  class="control-label no-mobile-display">Email</label>-->
+<!--                <input id="email" type="email" name="email" autofocus="" value="" class="form-control input-width-300  ajax-convert-lable field-required input-error" data-placeholder="E-mail" id="u_econtact" placeholder="">-->
+<!--            </div>-->
+<!---->
+<!---->
+<!--            <div class="form-group form-group-margin">-->
+<!--                <label  class="control-label no-mobile-display">Password</label>-->
+<!--                <input type="password" name="password" value="" class="form-control input-width-300 ajax-convert-lable field-required " data-placeholder="Password" id="u_pass" placeholder="">-->
+<!--            </div>-->
+<!---->
+<!---->
+<!--            <div class="form-group form-group-margin">-->
+<!--                <label  class="control-label no-mobile-display">Confirm password</label>-->
+<!--                <input type="password" name="conferpass" value="" class="form-control input-width-300 ajax-convert-lable field-required " data-placeholder="Confirm password" id="u_pass2" placeholder="">-->
+<!--            </div>-->
+<!---->
+<!---->
+<!--            <div class="form-group margin-bottom-100 mobile-bottom-50">-->
+<!--                <button id="submit-form-button" class="btn btn-sm btn-success center mobile-bottom-10" type="submit">Sign up</button>-->
+<!--            </div>-->
+<!---->
+<!---->
+<!--            <input type="hidden" name="PHPSESSID" value="08l3ntkfotfa54faoe9du5ns55" id="PHPSESSID">-->
+<!--            <input type="hidden" name="theToken" value="3e28716eb96ac5515f61cfe5f">-->
+<!--            <input type="hidden" name="signup_src" value="orig">-->
+<!--        </form>-->
+<!--        <p class="new-login">Already have an account? <a href="https://www.123contactform.com/index.php?p=login">Login</a></p>-->
+<!--    </div>-->
+<!--</form>-->
+<!--<link rel="stylesheet" href="validate.js">-->
+<!--<script src="validate.js"></script>-->
+<!--<script src="jquery.validate.min.js"></script>-->
+<!--</body>-->
+<!--</html>-->
+<?php
+echo  '<h1>jjjjj </h1>'
+?>
